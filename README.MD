@@ -99,3 +99,13 @@ export  $initHighlight;
 | ------ | -------- | --------- |
 | Pepito | Perez    | 1234567   |
 | Alan   | Nalda    | 9876543   |
+
+# Citas
+
+Texto referente a una cita que veremos abajo:
+
+> Esto es una cita
+
+Texto no relacionado con la cita anterior.
+
+> Una cita más
