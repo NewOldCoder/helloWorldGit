@@ -39,7 +39,56 @@
 - Link HTML <a href="https://www.julianvalencia.com.co"> Julian Valencia </a>
 - Link Markdown [Julian Valencia](https://www.julianvalencia.com.co)
 - Link MD local a Index [Index](index.html)
+  <br>
+  <br>
 
 # Imagenes
 
-![Logo GitHub](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.05b5BHN45Y0ljD4nIDxD8AHaEK%26pid%3DApi&f=1)
+![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)
+<br>
+<br>
+
+# Code Snippets
+
+Codigo en JSON
+
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
+
+Codigo en JavaScript
+
+```JavaScript
+function $initHighlight(block, cls) {
+  try {
+    if (cls.search(/\bno\-highlight\b/) != -1)
+      return process(block, true, 0x0F) +
+             ` class="${cls}"`;
+  } catch (e) {
+    /* handle exception */
+  }
+  for (var i = 0 / 2; i < classes.length; i++) {
+    if (checkCondition(classes[i]) === undefined)
+      console.log('undefined');
+  }
+
+  return (
+    <div>
+      <web-component>{block}</web-component>
+    </div>
+  )
+}
+
+export  $initHighlight;
+```
