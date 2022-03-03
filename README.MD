@@ -109,3 +109,25 @@ Texto referente a una cita que veremos abajo:
 Texto no relacionado con la cita anterior.
 
 > Una cita más
+
+# Lineas Divisorias
+
+Esto es un texto que será dividido .
+
+---
+
+Esto es otro texto dividido .
+
+---
+
+Y este texto también.
+
+---
+
+# Saltos de línea
+
+Este es un primer párrafo.
+
+Este es un segundo párrafo.
+
+Este es un tercer párrafo.
